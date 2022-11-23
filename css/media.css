@@ -20,6 +20,9 @@
     .select-selected{
         font-size: 18px;
     }
+       #next, #submit{
+        margin:350px 0 0 250px !important
+    }
 }
 
 @media screen and (max-width:1300px){
